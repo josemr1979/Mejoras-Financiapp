@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_ffff.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\ffff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_technology.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\technology.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_fff.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\fff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_registro.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_registro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_doc.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\doc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_vectores.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\vectores.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_pointer.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\pointer.png"
+    },
+    {
+        "merged": "com.example.financiapp-merged_res-44:/layout_activity_amortizacion.xml.flat",
+        "source": "com.example.financiapp-main-46:/layout/activity_amortizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_qds.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_qds.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_ce.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_ce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_link.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\link.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_icono_btn_ce.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\icono_btn_ce.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_asalariado.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\asalariado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_euro.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_euro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_rate.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_new.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_new.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_payment.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\payment.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\font_roboto_medium.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\font\\roboto_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_endeu.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\endeu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_doc.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_doc.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_b.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\b.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_descarga.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\descarga.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_amort.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\amort.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_background_action_bar.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\background_action_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_solido.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\solido.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_greene2.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\greene2.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_docc.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\docc.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_calculator.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\calculator.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_question2.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\question2.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_rosaclaro.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\rosaclaro.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_a.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\a.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_cc.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\cc.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_ei.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_ei.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\font_aladin.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\font\\aladin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_abstracto.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\abstracto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_splashcalculator.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\splashcalculator.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_botella.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\botella.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_retro.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\retro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_autonomo.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\autonomo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_amortizacion.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_amortizacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_qds3.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_qds3.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_y.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\y.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_starthere.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\starthere.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_baseline_keyboard_backspace_24.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_baseline_keyboard_backspace_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_k.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\k.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_main_sim.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_main_sim.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_guia.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\guia.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_r.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\r.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_inicio.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\layout\\activity_inicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_green.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\green.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_time.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_empleados.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\empleados.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_d.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\d.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_euros.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\euros.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_aa.jpg.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\aa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable-v24_oficina.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable-v24\\oficina.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\drawable_propia.png.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-main-46:\\drawable\\propia.png"
+    },
+    {
+        "merged": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-merged_res-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Jose\\.gradle\\daemon\\7.4\\com.example.financiapp-debug-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    }
+]
